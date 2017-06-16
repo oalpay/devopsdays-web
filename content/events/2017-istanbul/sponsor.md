@@ -23,65 +23,29 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u>Bronze<br />1000 USD</u></center></b></th>
-      <th><center><b><u>Silver<br />3000 USD</u></center></b></th>
-      <th><center><b><u>Gold<br />6000 USD</u></center></b></th>
+      <th><center><b><u>Bronze<br />3000 USD</u></center></b></th>
+      <th><center><b><u>Silver<br />6000 USD</u></center></b></th>
+      <th><center><b><u>Gold<br />15000 USD</u></center></b></th>
+      <th><center><b><u>Platinum<br />25000 USD</u></center></b></th>
     </tr>
     </thead>
     <tr>
       <td></td><td colspan="3"><small>Note: Paypal payments include 3% service charge.</small></td>
     </tr>
-    <tr>
-      <td></td>
-      <td colspan="3" style="padding:0px;">
-        <table style="margin:0px;line-height:6px;">
-          <tr>
-            <td style="padding: 4px 10px 0px 5px;">
-              <!-- bronze Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-            <td style="padding: 4px 10px 0px 5px;">
-              <!-- silver Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="FMZ9VU3WY2XPW">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-            <td style="width:90px;text-align:center;vertical-align:middle;">
-              <!-- gold Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="3" style="padding: 2px 0 12px 0;text-align: center;"><a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
     <tbody>
     <tr>
       <td>included tickets</td>
-      <td bgcolor="peru"><center><strong>1</strong></center></td>
+      <td bgcolor="peru"><center><strong>2</strong></center></td>
       <td bgcolor="silver"><center><strong>2</strong></center></td>
       <td bgcolor="gold"><center><strong>4</strong></center></td>
+      <td bgcolor="platinum"><center><strong>6</strong></center></td>
     </tr>
     <tr>
-      <td>logo on DevOpsDays Chicago event website</td>
+      <td>logo on DevOpsDays Istanbul event website</td>
       <td bgcolor="peru">&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
       <td>logo on all email communication</td>
