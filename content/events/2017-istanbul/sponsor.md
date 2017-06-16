@@ -34,55 +34,75 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tbody>
     <tr>
-      <td>included tickets</td>
+      <td>Included tickets</td>
       <td bgcolor="peru"><center><strong>2</strong></center></td>
       <td bgcolor="silver"><center><strong>2</strong></center></td>
       <td bgcolor="gold"><center><strong>4</strong></center></td>
       <td bgcolor="platinum"><center><strong>6</strong></center></td>
     </tr>
     <tr>
-      <td>logo on DevOpsDays Istanbul event website</td>
+      <td>Logo on DevOpsDays Istanbul event website</td>
       <td bgcolor="peru">&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
       <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
-      <td>logo on all email communication</td>
+      <td>Logo on shared slide, rotating during breaks</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
-      <td>logo on banner at venue during event</td>
+      <td>3 minutes pitch to full audience</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
     <tr>
-      <td>mention by MC at kickoff and close</td>
+      <td>logo at the expo area</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
-      <td>1 minute pitch to full audience (including streaming audience)</td>
+      <td>shared sponsor table in expo area and roll-ups</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
-      <td>dedicated booth/table space</td>
+      <td>private shared sponsor table in expo area and roll-upse</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
-      <td>shared booth/table for swag</td>
+      <td>3 minutes openning pitch to full audience</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on event bag</td>
+      <td>&nbsp;</td>
+      <td bgcolor="silver">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Acknowledgment of the company as a sponsor in the pre and post bulletins of the event</td>
+      <td>&nbsp;</td>
+      <td bgcolor="silver">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
     </tr>
     </tbody>
   </table>
