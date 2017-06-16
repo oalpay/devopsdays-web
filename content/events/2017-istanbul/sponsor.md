@@ -18,7 +18,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!--
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
@@ -64,5 +63,4 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </table>
 </div>
 
--->
 <hr/>
