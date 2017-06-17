@@ -29,9 +29,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th><center><b><u>Platinum<br />25000 USD</u></center></b></th>
     </tr>
     </thead>
-    <tr>
-      <td></td><td colspan="3"><small>Note: Paypal payments include 3% service charge.</small></td>
-    </tr>
     <tbody>
     <tr>
       <td>Included tickets</td>
@@ -62,6 +59,12 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
+      <td>3 minutes openning pitch to full audience</td>
+      <td>&nbsp;</td>
+      <td bgcolor="silver">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td bgcolor="platinum">&nbsp;</td>
+    </tr>
     <tr>
       <td>logo at the expo area</td>
       <td>&nbsp;</td>
@@ -81,13 +84,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
-    </tr>
-    <tr>
-      <td>3 minutes openning pitch to full audience</td>
-      <td>&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
-      <td>&nbsp;</td>
       <td bgcolor="platinum">&nbsp;</td>
     </tr>
     <tr>
