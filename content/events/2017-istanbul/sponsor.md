@@ -23,10 +23,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u>Bronze<br />3000 USD</u></center></b></th>
-      <th><center><b><u>Silver<br />6000 USD</u></center></b></th>
-      <th><center><b><u>Gold<br />15000 USD</u></center></b></th>
-      <th><center><b><u>Platinum<br />25000 USD</u></center></b></th>
+      <th><center><b><u>Bronze<br />3000 &#8378;</u></center></b></th>
+      <th><center><b><u>Silver<br />6000 &#8378;</u></center></b></th>
+      <th><center><b><u>Gold<br />15000 &#8378;</u></center></b></th>
+      <th><center><b><u>Platinum<br />25000 &#8378;</u></center></b></th>
     </tr>
     </thead>
     <tbody>
