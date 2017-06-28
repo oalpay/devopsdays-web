@@ -42,63 +42,63 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="peru">&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>3 minutes pitch to full audience</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>3 minutes openning pitch to full audience</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>logo at the expo area</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>shared sponsor table in expo area and roll-ups</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>private shared sponsor table in expo area and roll-upse</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td bgcolor="gold">&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>Logo on event bag</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>Acknowledgment of the company as a sponsor in the pre and post bulletins of the event</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
-      <td bgcolor="platinum">&nbsp;</td>
+      <td bgcolor="platinum">&#x2713;</td>
     </tr>
     </tbody>
   </table>
