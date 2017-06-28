@@ -66,21 +66,21 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
-      <td>logo at the expo area</td>
+      <td>Logo at the expo area</td>
       <td>&nbsp;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
     <tr>
-      <td>shared sponsor table in expo area and roll-ups</td>
+      <td>Shared sponsor table in expo area and roll-ups</td>
       <td>&#x2713;</td>
       <td>&nbsp;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
     <tr>
-      <td>private shared sponsor table in expo area and roll-upse</td>
+      <td>Private shared sponsor table in expo area and roll-upse</td>
       <td>&nbsp;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
