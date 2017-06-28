@@ -32,10 +32,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tbody>
     <tr>
       <td>Included tickets</td>
-      <td bgcolor="peru"><center><strong>2</strong></center></td>
-      <td bgcolor="silver"><center><strong>2</strong></center></td>
-      <td bgcolor="gold"><center><strong>4</strong></center></td>
-      <td bgcolor="platinum"><center><strong>6</strong></center></td>
+      <td bgcolor="peru"><center><strong>&#x2713;(x2)</strong></center></td>
+      <td bgcolor="silver"><center><strong>&#x2713;(x2)</strong></center></td>
+      <td bgcolor="gold"><center><strong>&#x2713;(x4)</strong></center></td>
+      <td bgcolor="platinum"><center><strong>&#x2713;(x6)</strong></center></td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Istanbul event website</td>
