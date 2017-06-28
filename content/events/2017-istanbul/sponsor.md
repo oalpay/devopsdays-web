@@ -39,7 +39,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td>Logo on DevOpsDays Istanbul event website</td>
-      <td bgcolor="peru">&nbsp;</td>
+      <td bgcolor="peru">&#x2713;</td>
       <td bgcolor="silver">&#x2713;</td>
       <td bgcolor="gold">&#x2713;</td>
       <td bgcolor="platinum">&#x2713;</td>
@@ -74,7 +74,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td>shared sponsor table in expo area and roll-ups</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&nbsp;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
@@ -95,7 +95,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td>Acknowledgment of the company as a sponsor in the pre and post bulletins of the event</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
