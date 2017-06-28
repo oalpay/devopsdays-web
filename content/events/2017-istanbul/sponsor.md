@@ -40,16 +40,16 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>Logo on DevOpsDays Istanbul event website</td>
       <td bgcolor="peru">&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
+      <td bgcolor="silver">&#x2713;</td>
       <td bgcolor="gold">&#x2713;</td>
       <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
       <td>&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
-      <td bgcolor="gold">&#x2713;</td>
-      <td bgcolor="platinum">&#x2713;</td>
+      <td>&#x2713;</td>
+      <td>&#x2713;</td>
+      <td>&#x2713;</td>
     </tr>
     <tr>
       <td>3 minutes pitch to full audience</td>
@@ -59,7 +59,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="platinum">&#x2713;</td>
     </tr>
     <tr>
-      <td>3 minutes openning pitch to full audience</td>
+      <td>5 minutes openning pitch to full audience</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
@@ -68,7 +68,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>logo at the expo area</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
@@ -82,21 +82,21 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>private shared sponsor table in expo area and roll-upse</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
     <tr>
       <td>Logo on event bag</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
     <tr>
       <td>Acknowledgment of the company as a sponsor in the pre and post bulletins of the event</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>&#x2713;</td>
       <td>&#x2713;</td>
       <td>&#x2713;</td>
     </tr>
